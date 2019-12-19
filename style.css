@@ -1,0 +1,16 @@
+h1{
+ text-shadow: 10px 5px 2px blue;
+ font-size: 200%;
+ font-family: Georgia, serif;
+ text-align: center;
+ border-style:  outset
+}
+
+p{
+  font-family: Helvetica, Arial, sans-serif;
+
+}
+
+body{
+  background-color: red
+}
